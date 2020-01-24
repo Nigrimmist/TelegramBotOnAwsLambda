@@ -4,7 +4,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 using Amazon.Lambda.Core;
-using AwsLamdaRssCore;
 using System.Net;
 using Amazon.Lambda.APIGatewayEvents;
 using AwsLamdaCore.Managers;

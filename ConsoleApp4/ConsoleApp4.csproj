@@ -23,7 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AwsLambdaHandleTelegramWebhooks\AwsLambdaHandleTelegramWebhooks.csproj" />
-    <ProjectReference Include="..\AwsLamdaRssCore\AwsLamdaCore.csproj" />
+    <ProjectReference Include="..\AwsLamdaCore\AwsLamdaCore.csproj" />
   </ItemGroup>
 
 </Project>

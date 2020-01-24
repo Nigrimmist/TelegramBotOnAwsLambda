@@ -12,6 +12,6 @@
     <PackageReference Include="Telegram.Bot" Version="15.1.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AwsLamdaRssCore\AwsLamdaCore.csproj" />
+    <ProjectReference Include="..\AwsLamdaCore\AwsLamdaCore.csproj" />
   </ItemGroup>
 </Project>
